@@ -1,7 +1,7 @@
-About NewsConnect
+**About NewsConnect**
 NewsConnect is a user-friendly mobile application designed to provide you with a seamless and efficient way to stay updated on current events. We understand the importance of staying informed, which is why we've curated a selection of news headlines from various reliable sources across different categories.
 
-Key Features
+**Key Features**
 1. Efficient Information Access: Easily access the latest news updates without sifting through extensive content.
 
 2. Enhanced Readability: Enjoy news content presented in a user-friendly format with concise headlines and brief summaries for easy comprehension.
