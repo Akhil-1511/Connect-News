@@ -12,6 +12,8 @@ The app focuses on delivering a curated selection of news headlines from various
 **ScreenShots**
 ![Screenshot 2024-04-05 111527](https://github.com/Akhil-1511/Connect-News/assets/141147359/1a04dd5b-161e-4ed4-bdcd-878e003923da)
 ![Screenshot 2024-04-05 111751](https://github.com/Akhil-1511/Connect-News/assets/141147359/f05b21a9-5a31-48d0-86e9-3844ee408226)
+![Screenshot 2024-04-05 111630](https://github.com/Akhil-1511/Connect-News/assets/141147359/353d01c9-baa7-4b43-96d4-549e4eed6723)
+
 
 
 
