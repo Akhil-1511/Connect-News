@@ -10,13 +10,10 @@ The app focuses on delivering a curated selection of news headlines from various
 5.Search Functionality: To further enhance user experience, NewsConnect incorporates a user-friendly search function. This feature allows users to quickly find articles on specific topics or events, promoting ease of use and accessibility.
 
 **ScreenShots**
-![image](https://github.com/Akhil-1511/Connect-News/assets/141147359/0bab9a33-c23f-4852-9d14-1e39e6d380d7)
+![Screenshot 2024-04-05 111527](https://github.com/Akhil-1511/Connect-News/assets/141147359/1a04dd5b-161e-4ed4-bdcd-878e003923da)
+![Screenshot 2024-04-05 111751](https://github.com/Akhil-1511/Connect-News/assets/141147359/f05b21a9-5a31-48d0-86e9-3844ee408226)
 
-![image](https://github.com/Akhil-1511/Connect-News/assets/141147359/b13ae6c1-623b-4ec7-aeee-43bc790a64ae)
 
-![image](https://github.com/Akhil-1511/Connect-News/assets/141147359/27c5fcf1-6738-468b-a9bd-bf4787dfaa9e)
-
-![image](https://github.com/Akhil-1511/Connect-News/assets/141147359/e0a81f8e-16d1-4c81-ab75-4396f6a9f8e1)
 
 
 
