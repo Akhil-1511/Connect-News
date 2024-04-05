@@ -12,9 +12,6 @@ NewsConnect is a user-friendly mobile application designed to provide you with a
 
 5. Search Functionality: Quickly find articles on specific topics or events with our user-friendly search function.
 
-Getting Started
-To start using NewsConnect, simply download the app from the App Store or Google Play Store and follow the on-screen instructions to set up your account. Once logged in, you can customize your news feed by selecting your preferred categories and topics of interest.
-
 **ScreenShots**
 
 ![Screenshot 2024-04-05 111527](https://github.com/Akhil-1511/Connect-News/assets/141147359/1a04dd5b-161e-4ed4-bdcd-878e003923da)
